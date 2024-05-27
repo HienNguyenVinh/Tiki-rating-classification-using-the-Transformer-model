@@ -1,1 +1,2 @@
-# https-www.kaggle.com-code-nguyenvinhhien-tiki-rating-classification-using-transformer-model
+Build a transformer model from scratch using Tensorflow
+-> Understand the architecture of Transformer model
